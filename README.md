@@ -7,4 +7,10 @@ Ce projet utilise **Git** pour le suivi des versions et la collaboration.
 git init
 
 
+### 📥 Clone the repository
+
+```bash
+git clone https://github.com/besmaSaket-web/ex-git-besma.git
+
+### **clone the repository**
 git clone https://github.com/besmaSaket-web/ex-git-besma.git
